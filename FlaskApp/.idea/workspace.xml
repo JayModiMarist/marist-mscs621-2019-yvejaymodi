@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db10ccdf-498e-4761-91a8-9c5cd1cdfde5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FlaskApp" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UtPxDVFGoghVuXFiYRDJwhK2rk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/imageshorts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FlaskApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db10ccdf-498e-4761-91a8-9c5cd1cdfde5" name="Default Changelist" comment="" />
+      <created>1576173163414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576173163414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="257" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576173274324">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="257" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1576173274324" />
+    <state x="441" y="313" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576181149417">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="441" y="313" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1576181149417" />
+    <state width="689" height="217" key="GridCell.Tab.0.bottom" timestamp="1576174476510">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="689" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1576174476510" />
+    <state width="689" height="217" key="GridCell.Tab.0.center" timestamp="1576174476508">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="689" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1576174476508" />
+    <state width="689" height="217" key="GridCell.Tab.0.left" timestamp="1576174476502">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="689" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1576174476502" />
+    <state width="689" height="217" key="GridCell.Tab.0.right" timestamp="1576174476509">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="689" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1576174476509" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1576173181849">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1576173181849" />
+  </component>
+</project>

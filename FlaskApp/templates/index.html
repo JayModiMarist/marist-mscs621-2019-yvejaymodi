@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <title>This is the title of the webpage!</title>
+  <style>
+    img{
+      max-width: 300px;
+      max-height: 300px;
+      align:middle;
+
+    }
+
+  </style>
+  </head>
+  <body>
+    <h1 align="center"> What To Wear To Practice</h1>
+    <p align ="center">This page will select items from our wardrobe at random.</p>
+    <p align ="center"></p>
+    <div align="center"> <button onclick="myFunction()" align="center">Click for jersey</button>
+    <button onclick="myFunction1()"align="center">Click for shorts</button>
+    </div>
+    <p id="demo" align="center"></p>
+    <p id="demo2" align="center"></p>
+  </body>
+
+<script>
+
+  var images = [0,1,2]
+  var imageshorts = [0,1]
+    function myFunction() {
+      var random = images[Math.floor(Math.random()*images.length)]
+      document.getElementById("demo").innerHTML="<img src='../images/"+images[random]+".png'>"
+  }
+    function myFunction1() {
+      var random = images[Math.floor(Math.random()*imageshorts.length)]
+      document.getElementById("demo2").innerHTML="<img src='../images/imageshorts/"+imageshorts[random]+".png'>"
+  }
+</script>
+</html>

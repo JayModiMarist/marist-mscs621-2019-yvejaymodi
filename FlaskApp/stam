@@ -1,0 +1,2 @@
+var random = images[Math.floor(Math.random()*images.length)]
+    document.getElementById("demo").innerHTML="<img src='../images/"+images[random]+".png'>"
