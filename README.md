@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Yve Jay Modi's App
 
-You can use the [editor on GitHub](https://github.com/JayModiMarist/marist-mscs621-2019-yvejaymodi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+I create this clothes selection web app for my colleagues and I.
+Every night we have to coordinate clothing for the next day. My colleague Benjamin
+has to go and pull out the clothes, set them nicely and send a message in the group.
+With this app, Benjamin will be able to just go on his phone and send us tomorrow's outfit 
+with a click of a button (or two).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
