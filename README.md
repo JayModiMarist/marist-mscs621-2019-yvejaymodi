@@ -8,6 +8,9 @@ Every night we have to coordinate clothing for the next day. My colleague Benjam
 has to go and pull out the clothes, set them nicely and send a message in the group.
 With this app, Benjamin will be able to just go on his phone and send us tomorrow's outfit 
 with a click of a button (or two).
+This app also uses the Embeded Map Google API to show the location of our practice facility.
+The map view also allows users to click on it to open Google Maps, and recieve directions to the facility.
+
 
 
 ```markdown
