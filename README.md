@@ -1,5 +1,6 @@
 ## Welcome to Yve Jay Modi's App
 
+https://mscs621finalproject.appspot.com/
 
 ### Introduction
 
@@ -12,18 +13,11 @@ This app also uses the Embeded Map Google API to show the location of our practi
 The map view also allows users to click on it to open Google Maps, and recieve directions to the facility.
 
 
-
+### Architecture
 ```markdown
-Architecture 
-The app uses Docker 
+
+The app uses a Docker container (Posted on Docker Hub - https://hub.docker.com/repository/docker/jaymodimarist/mscs621finalproject/), which is deployed through Google App Engine.
+In addition, the app uses Google Embeded Map API in order to present the Map that is visible on the page.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JayModiMarist/marist-mscs621-2019-yvejaymodi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
